@@ -5,7 +5,7 @@ A small produce marketplace app made with Node.js (practice)
 small API made to handle the "data" (only five products)
 Notes related to Node.js included
 
-design responsiveness__
+design responsiveness <br />
 https://github.com/CamillieFu/net-farm/assets/86721807/17facdce-0b2c-424d-bad8-8bc3959bd80e
 __
 home page__
