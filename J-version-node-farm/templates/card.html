@@ -1,0 +1,24 @@
+<figure class="card">
+  <img class="card-img" src="{%PRODUCT_IMAGE%}" alt="product image">
+  <div class="card__title-box">
+    <h2 class="card__title">{%PRODUCT_NAME%}</h2>
+  </div>
+
+  <div class="card__details">
+    <div class="card__detail-box {%NOT_ORGANIC%}">
+      <h6 class="card__detail card__detail--organic">オーガニック!</h6>
+    </div>
+
+    <div class="card__detail-box ">
+      <h6 class="card__detail">📦に{%QUANTITY%}入り</h6>
+    </div>
+
+    <div class="card__detail-box">
+      <h6 class="card__detail card__detail--price">¥{%PRICE%}</h6>
+    </div>
+  </div>
+
+  <a class="card__link" href="/product?id={%ID%}" >
+    <span>詳細を見る <i class="emoji-right">👉</i></span>
+  </a>
+</figure>

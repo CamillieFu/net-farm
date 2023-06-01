@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "アボカド",
+    "image": "https://plus.unsplash.com/premium_photo-1672860633119-fc2ff8b7a537?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+    "from": "スペイン",
+    "nutrients": "ビタミンB,、ビタミンK",
+    "quantity": "4 🥑",
+    "price": "6.50",
+    "organic": true,
+    "description": "熟したアボカドは、手のひらに乗せてギュッと握ると、優しい圧力でゆれる。果実は甘くなく、はっきりとした微妙な風味があり、滑らかな舌触りです。アボカドは脂肪分が多いので、サンドイッチやサラダなど、肉の代わりにベジタリアン料理で人気があります。一般的にアボカドは生で食されますが、一般的な「ハス」を含む一部の品種は、短時間加熱しても苦くならないものがあります。メキシコのディップ料理「ワカモレ」のベースとして使われるほか、コーントルティーヤやトーストに塗ってスパイスと一緒に食べたりします。"
+  },
+  {
+    "id": 1,
+    "productName": "羊乳と山羊乳チーズ",
+    "image": "https://images.unsplash.com/photo-1480951759438-f39a376462f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1769&q=80",
+    "from": "ポルトガル",
+    "nutrients": "タンパク質",
+    "quantity": "250g",
+    "price": "5.00",
+    "organic": false,
+    "description": "クリーミーで独特の風味を持つ山羊チーズは、世界中で親しまれている乳製品です。ソフトでのびのびとしたフレッシュチーズから、塩味の効いた熟成チーズまで、さまざまな味わいと食感があります。牛乳から作られるチーズと同じ凝固・分離工程で作られますが、山羊のチーズは栄養成分に違いがあります。"
+  },
+  {
+    "id": 2,
+    "productName": "ブロッコリー",
+    "image": "https://plus.unsplash.com/premium_photo-1675365837002-1c4cd601e74f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+    "from": "ポルトガル",
+    "nutrients": "ビタミンC、カルシウム",
+    "quantity": "3 🥦",
+    "price": "5.50",
+    "organic": true,
+    "description": "ブロッコリーは、数十種類の栄養素を豊富に含む、ボリューム満点でおいしい野菜として知られています。野菜の中で最も栄養価の高い野菜と言われています。食事に取り入れるべき緑黄色野菜といえば、ブロッコリーが一番に思い浮かびますね。ブロッコリーはアブラナ科の野菜で、芽キャベツやケールなどの野菜と同じキャベツ科に属します。味は違いますが、ブロッコリーも他の野菜も同じ仲間です。"
+  },
+  {
+    "id": 3,
+    "productName": "人参",
+    "image": "https://images.unsplash.com/photo-1522184216316-3c25379f9760?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "from": "フランス",
+    "nutrients": "ビタミンA、ビタミンK",
+    "quantity": "20 🥕",
+    "price": "3.00",
+    "organic": true,
+    "description": "にんじんは、健康食品の代表格と言われる根菜です。歯ごたえがあり、美味しく、栄養価も高い。ニンジンは、β-カロテン、食物繊維、ビタミンK、カリウム、抗酸化物質を特に多く含んでいます。ニンジンには多くの健康効果があります。減量に適した食品であり、コレステロール値の低下や目の健康増進につながるとされています。"
+  },
+  {
+    "id": 4,
+    "productName": "甘々とうもろこし",
+    "image": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+    "from": "Germany",
+    "nutrients": "Vitamin C, Magnesium",
+    "quantity": "2 🌽",
+    "price": "2.00",
+    "organic": false,
+    "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+  }
+]
